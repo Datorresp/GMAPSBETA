@@ -1,0 +1,13 @@
+C:\Users\Playtech\source\repos\GMAPSBETA\GMAPSBETA\bin\Debug\GMAPSBETA.exe.config
+C:\Users\Playtech\source\repos\GMAPSBETA\GMAPSBETA\bin\Debug\GMAPSBETA.exe
+C:\Users\Playtech\source\repos\GMAPSBETA\GMAPSBETA\bin\Debug\GMAPSBETA.pdb
+C:\Users\Playtech\source\repos\GMAPSBETA\GMAPSBETA\bin\Debug\GMap.NET.Core.dll
+C:\Users\Playtech\source\repos\GMAPSBETA\GMAPSBETA\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Playtech\source\repos\GMAPSBETA\GMAPSBETA\obj\Debug\GMAPSBETA.csprojAssemblyReference.cache
+C:\Users\Playtech\source\repos\GMAPSBETA\GMAPSBETA\obj\Debug\GMAPSBETA.Form1.resources
+C:\Users\Playtech\source\repos\GMAPSBETA\GMAPSBETA\obj\Debug\GMAPSBETA.Properties.Resources.resources
+C:\Users\Playtech\source\repos\GMAPSBETA\GMAPSBETA\obj\Debug\GMAPSBETA.csproj.GenerateResource.cache
+C:\Users\Playtech\source\repos\GMAPSBETA\GMAPSBETA\obj\Debug\GMAPSBETA.csproj.CoreCompileInputs.cache
+C:\Users\Playtech\source\repos\GMAPSBETA\GMAPSBETA\obj\Debug\GMAPSBETA.csproj.CopyComplete
+C:\Users\Playtech\source\repos\GMAPSBETA\GMAPSBETA\obj\Debug\GMAPSBETA.exe
+C:\Users\Playtech\source\repos\GMAPSBETA\GMAPSBETA\obj\Debug\GMAPSBETA.pdb
